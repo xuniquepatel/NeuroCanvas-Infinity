@@ -1,1 +1,1 @@
-# MindCanvas
+# NeuroCanvas-Infinity
